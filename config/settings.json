@@ -1,0 +1,5 @@
+{
+  "env": "dev",
+  "base_url": "https://httpbin.org",
+  "timeout": 10
+}
